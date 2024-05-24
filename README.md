@@ -1,4 +1,9 @@
-## oiii
+## Boas vindas ao meu perfil 💙💙
+Meu nome é Isabela Moraes
+
+Estou estudando na Alura
+Não entendo nada de linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **pzllet/pzllet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
